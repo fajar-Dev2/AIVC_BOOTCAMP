@@ -8,9 +8,11 @@ jurusan : RPL
 
 Sekolah : SMKN 5 TELKOM BANDA ACEH
 
+
 *Tentang Saya 
 
 Saya fajar. Saya suka coding dan desain web. Hobi saya ngoding dan bermain bola
+
 
 *Tujuan Mengikuti Bootcamp
 
