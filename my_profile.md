@@ -1,8 +1,11 @@
 *My Profile
 
 Nama : Fajar Anwar
+
 Asal : Banda Aceh 
+
 jurusan : RPL
+
 Sekolah : SMKN 5 TELKOM BANDA ACEH
 
 
